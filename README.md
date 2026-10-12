@@ -52,6 +52,7 @@ Tools we build and use every day — free, no signup.
 
 - [MyToolster](https://mytoolster.com) — 50+ free browser-based utilities: converters, calculators, generators, AI detectors.
 - [MyToolster Audio/Video to Text](https://mytoolster.com) — Free transcription in the browser, no upload needed.
+- [QuietTake Noise Remover](https://noiseremover.site/) — Free browser-local RNNoise/WASM speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; each file must be 50 MB or smaller and five minutes or shorter, with no account or audio upload required.
 
 ## 🖥 Run Models Locally
 
