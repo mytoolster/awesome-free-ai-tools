@@ -36,6 +36,7 @@ Tools we build and use every day — free, no signup.
 - [HuggingChat](https://huggingface.co/chat) — Open-source chat UI by Hugging Face, free.
 
 ## 🎨 Image Generation & Editing
+- [Raphael AI](https://raphael.app) — Free AI image generator with Seedream, Nano Banana, GPT Image and more. No credit card for basic generations.
 
 - [PhotoTextEdit](https://phototextedit.com) — Repair text in AI-generated images, free online editor.
 - [Pollinations.ai](https://pollinations.ai) — Free text-to-image API, no key needed.
