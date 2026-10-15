@@ -41,6 +41,8 @@ Tools we build and use every day — free, no signup.
 - [Pollinations.ai](https://pollinations.ai) — Free text-to-image API, no key needed.
 - [MyToolster Background Remover](https://mytoolster.com) — Free AI background removal in the browser.
 
+- [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) — 만화 번역기 AI는 100개 이상의 언어와 모든 지원 번역 언어로 개인 사용자의 일괄·맞춤 번역을 처리하며, 기업급 만화 번역기·리더로서 스튜디오에 완전한 온라인 Photoshop 스타일 편집기를 제공하고 API로 개인 작업 흐름을 연결합니다. 무료 사용자는 일일 체크인으로 제한된 크레딧을 받을 수 있으며, 추가 크레딧과 구독은 유료입니다.
+
 ## 🛠 Developer Tools
 
 - [FreeLLM for Claude Code](https://freellm.net) — One-click setup to run Claude Code, Cursor and Codex on free models.
