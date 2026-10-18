@@ -39,6 +39,7 @@ Tools we build and use every day — free, no signup.
 
 - [PhotoTextEdit](https://phototextedit.com) — Repair text in AI-generated images, free online editor.
 - [Pollinations.ai](https://pollinations.ai) — Free text-to-image API, no key needed.
+- [SplitLayers](https://splitlayers.com) — Upload an image and split it into separate transparent layers you can preview one by one. Free, runs in the browser.
 - [MyToolster Background Remover](https://mytoolster.com) — Free AI background removal in the browser.
 
 ## 🛠 Developer Tools
