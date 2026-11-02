@@ -40,6 +40,13 @@ Tools we build and use every day — free, no signup.
 - [PhotoTextEdit](https://phototextedit.com) — Repair text in AI-generated images, free online editor.
 - [Pollinations.ai](https://pollinations.ai) — Free text-to-image API, no key needed.
 - [MyToolster Background Remover](https://mytoolster.com) — Free AI background removal in the browser.
+- [PromptImage](https://promptimage.cloud) — Free AI image gallery + image/video generator (Freemium).
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok).
+- [Bad Times AI](https://badtimesai.dev) — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) — Independent unofficial AI dance effect: one photo → 13s widescreen solo dance video (Paid from $7.99; not affiliated with Riot/KDA).
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) — Independent unofficial AI dance: two photos → neon dual dance video (Paid from $7.99).
+- [dime dime baby ai](https://dimedimebabyai.dev) — Independent unofficial AI dance effect: one photo → short dance video (Paid from $7.99).
 
 ## 🛠 Developer Tools
 
