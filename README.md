@@ -34,6 +34,7 @@ Tools we build and use every day — free, no signup.
 - [Duck.ai](https://duck.ai) — DuckDuckGo's free, private AI chat with multiple models.
 - [Poe](https://poe.com) — Chat with many AI models in one place, free plan available.
 - [HuggingChat](https://huggingface.co/chat) — Open-source chat UI by Hugging Face, free.
+- [Sitey AI](https://app.sitey.pk/) — Free Urdu AI chat and Android app: answers in Urdu, Roman Urdu or English and reads them aloud in an Urdu voice.
 
 ## 🎨 Image Generation & Editing
 
